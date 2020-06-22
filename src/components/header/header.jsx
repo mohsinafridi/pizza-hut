@@ -22,7 +22,7 @@ const Header = ({ hidden }) => (
       <ul className="navbar-nav mr-auto">
         <li className="nav-item active">
           <Link className="nav-link" to="/">
-            Home1
+            Home
           </Link>
         </li>
       
