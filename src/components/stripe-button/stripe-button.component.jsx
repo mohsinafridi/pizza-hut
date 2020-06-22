@@ -19,7 +19,7 @@ const StripeCheckoutButton = ({ price }) => {
       token={onToken}
       description={`Your total is $${price}`}
       amount={priceForStripe}
-      image='https://svgshare.com/i/CUz.svg'
+      image='https://www.pizzahut.com.pk/assets/images/ph-logo.png'
       stripeKey={publishableKey}
       panelLabel='Pay Now'
       shippingAddress

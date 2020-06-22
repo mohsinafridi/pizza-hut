@@ -4,11 +4,11 @@ import { BrowserRouter as Router, Switch, Route,Redirect } from "react-router-do
 
 import Header from "./components/header/header";
 
-import PizzaList from "./components/pizza//pizza-list.component";
+// PizzaList from "./components/pizza//pizza-list.component";
 import CheckoutPage from './pages/checkout/checkout.component';
 import HomePage from './pages/homepage/homepage';
 import ShopPage from './pages/shop/shop.jsx';
-import SignInAndSignUp from './pages/signInAndSingUp/signin-signup';
+//import SignInAndSignUp from './pages/signInAndSingUp/signin-signup';
 
 class App extends React.Component {
   render() {   
@@ -17,8 +17,7 @@ class App extends React.Component {
       <Header/>
       <Switch>
       <Route exact path='/' component={HomePage} /> 
-      <Route path='/shop' component={ShopPage} />  
-      <Route exact path="/pizza"><PizzaList /></Route>
+      <Route path='/shop' component={ShopPage} />        
       <Route exact path='/checkout' component={CheckoutPage} />
         {/* <Route
           exact

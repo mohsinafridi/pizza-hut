@@ -11,9 +11,11 @@ const Header = ({ hidden }) => (
   //const counter = useSelector(state => state.counter);
   <nav className="navbar navbar-expand-lg navbar-light bg-light">
     <Link className="navbar-brand mb-0 h1" to="/">
-      {/* <img _ngcontent-gca-c7="" 
-      className="header-img img img-responsive ml-auto mr-auto" src="https://www.pizzahut.com.pk/assets/images/ph-logo.png" 
-      width="160"/> */}
+      <img
+        className="header-img img img-responsive ml-auto mr-auto"
+        src="https://www.pizzahut.com.pk/assets/images/ph-logo.png"
+        width="160"
+      />
     </Link>
 
     <div className="collapse navbar-collapse">
@@ -23,11 +25,7 @@ const Header = ({ hidden }) => (
             Home
           </Link>
         </li>
-        <li className="nav-item">
-          <Link className="nav-link" to="/pizza">
-            Pizza
-          </Link>
-        </li>
+      
 
         {/* <li>
           {currentUser ? (
