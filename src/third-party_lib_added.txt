@@ -1,0 +1,9 @@
+
+
+#React-Redux
+#logger
+#Reselect
+#Redux-Persist -  Local Storage.
+#node-sass
+
+react-stripe-checkout  - payements
