@@ -77,7 +77,7 @@ const SHOP_DATA = {
       {
         id: 10,
         title: "Mamo burger",
-        imageUrl: "https://i.ibb.co/0s3pdnc/adidas-nmd.png",
+        imageUrl: "https://cdn.pixabay.com/photo/2016/03/05/22/55/barbeque-1239407__340.jpg",
         price: 4,
       },
       {
