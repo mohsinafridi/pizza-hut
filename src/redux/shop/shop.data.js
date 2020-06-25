@@ -120,7 +120,7 @@ const SHOP_DATA = {
         id: 17,
         title: "Potato & burger",
         imageUrl: "https://st2.depositphotos.com/3559259/5858/i/950/depositphotos_58582999-stock-photo-potatoes-fries-with-tasty-fresh.jpg",
-        price: 17,
+        price: 17
       },
     ],
   },
@@ -133,8 +133,8 @@ const SHOP_DATA = {
         id: 18,
         title: "Russian Salad",
         imageUrl: "https://media.istockphoto.com/photos/salad-olivier-picture-id180837538?b=1&k=6&m=180837538&s=170667a&w=0&h=Pw3gW27mEYal6-SBYZhVn7tW7E-rengHDTMiBvezTL0=",
-        price: 125,
-      },,
+        price: 125
+      },
       {
         id: 19,
         title: "Cucumber Salad",

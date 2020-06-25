@@ -8,16 +8,17 @@
 
 react-stripe-checkout  - payements  - npm i react-stripe-checkout
  -- Following are the libraries which are using in this project.
-   "bootstrap": "^4.5.0",
-   "firebase": "^7.15.3",
-    "node-sass": "^4.14.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-redux": "^7.2.0",
-    "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
-    "react-stripe-checkout": "^2.6.3",
-    "redux": "^4.0.5",
-    "redux-logger": "^3.0.6",
-    "redux-persist": "^6.0.0",
-    "reselect": "^4.0.0"
+    bootstrap
+    firebase
+    node-sass
+    react
+    react-dom
+    react-redux
+    react-router-dom": "^5.2.0",
+    react-scripts": "3.4.1",
+    react-stripe-checkout": "^2.6.3", //https://github.com/azmenak/react-stripe-checkout
+    redux": "^4.0.5",
+    redux-logger": "^3.0.6",
+    redux-persist": "^6.0.0",
+    reselect": "^4.0.0"
+    npm i styled-components
